@@ -1,0 +1,94 @@
+.header {
+    background: #fff;
+    color: #fff;
+    padding: 8px;
+    text-align: center;
+}
+.search {
+    background: rgb(143, 143, 143);
+    color: #fff;
+    padding: 11px;
+    text-align: center;
+    height: 90px;
+    margin-top: 22px;
+}
+.search h4 {
+    color: #fff;
+    margin-bottom: 1px;
+}
+.search input {
+    width: 30%;
+    height: 10px;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    padding: 5px;
+}
+.search button {
+    background: #fff;
+    color: #000;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.search button:hover {
+    background: #000;
+    color: #fff;
+}
+.menu {
+    background: #fff;
+    padding: 8px;
+    text-align: center;
+    width: 100%;
+    height: 80px;
+    vertical-align: middle;
+}
+.box1 {
+    background-color: #7EE5DA;
+    float: left;
+    width: 33%;
+    height: 110px;
+}
+.box1 p {
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+.box2 {
+    background-color: #70CCC2;
+    float: left;
+    width: 33%;
+    height: 110px;
+}
+.box3 {
+    background-color: #62B3AA;
+    float: left;
+    width: 33%;
+    height: 110px;
+}
+.box3 input {
+    width: 30%;
+    height: 10px;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+.box3 button {
+    background: #fff;
+    color: #000;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+.box3 button:hover {
+    background: #000;
+    color: #fff;
+}
+.box3 p {
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+.footer {
+    background: #fff;
+    padding: 8px;
+    text-align: center;
+    margin-top: 10px;
+}
